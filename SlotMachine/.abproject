@@ -3,13 +3,12 @@
   "ProjectGuid": "e1be48b9-a18c-4a59-aa9c-e1a9e12c84a0",
   "projectVersion": 1,
   "AppIdentifier": "com.telerik.SlotMachine",
-  "DisplayName": "SlotMachine",
+  "DisplayName": "Chevrolet SlotMachine",
   "Author": "",
-  "Description": "SlotMachine",
+  "Description": "Chevrolet SlotMachine",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
-    "1",
     "2"
   ],
   "iOSBackgroundMode": [],
@@ -19,11 +18,10 @@
     "android.permission.INTERNET"
   ],
   "DeviceOrientations": [
-    "Portrait",
     "Landscape"
   ],
   "AndroidHardwareAcceleration": "true",
-  "iOSStatusBarStyle": "Default",
+  "iOSStatusBarStyle": "Hidden",
   "Framework": "Cordova",
   "WP8TileTitle": "",
   "WP8Publisher": "",
@@ -41,5 +39,6 @@
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
-  ]
+  ],
+  "iOSDeploymentTarget": "6.0"
 }
